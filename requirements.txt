@@ -1,0 +1,7 @@
+numpy
+pandas
+praw
+nltk - vaderSentiment
+dash - plotly
+matplotlib
+ipython
